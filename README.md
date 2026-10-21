@@ -31,3 +31,4 @@ make re
 ## Environnement de travail
 
 Pour respecter le sujet, toutes les expérimentations doivent être réalisées **dans une machine virtuelle isolée**. Les opérations sur les fichiers sont limitées à `/tmp/test` et `/tmp/test2` (ou aux chemins équivalents de l'OS choisi).
+
